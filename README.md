@@ -1,6 +1,6 @@
 # hyperRobot
-JavaScriptで作成したハイパーロボットというボードゲームです。  
-最小構成に近いです。  
+JavaScriptで作成した[ハイパーロボット](http://www.tk-game-diary.net/rasende_roboter/rasende_roboter.html)というボードゲームです。  
+最小構成に近いです。プルリクください。  
 
 ## あそびかた  
 ゴールの色に合ったコマを、ゴールまで導けばゲームクリアです。  
